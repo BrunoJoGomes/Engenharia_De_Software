@@ -149,6 +149,11 @@ A plataforma HealthLink oferecerá as seguintes funcionalidades principais:
 - Lembretes automáticos de consultas
 
 2. *Wireframes:*
+
+*Fluxograma:*
+
+<img src="./wireframes/Fluxograma.png" alt="Fluxograma">
+
 ### Paciente:
 
 <img src="./wireframes/Paciente.png" alt="Tela paciente" width="700" height="500">
