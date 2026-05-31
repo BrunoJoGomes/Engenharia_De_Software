@@ -18,7 +18,6 @@ Este repositório contém a modelagem em profundidade de três fatias verticais 
 | 3. Comportamental — Fatia 3 | [docs/03-comportamental-fatia3.md](docs/03-comportamental-fatia3.md) |
 | 4. Casos de Teste | [docs/04-casos-de-teste.md](docs/04-casos-de-teste.md) |
 | 5. Rastreabilidade | [docs/05-rastreabilidade.md](docs/05-rastreabilidade.md) |
-| Referências | [references.md](references.md) |
 
 ## Fatias Modeladas
 
